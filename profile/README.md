@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="../assets/hero-banner.png" alt="Open Engineering Brick" width="100%" />
-
 # Open Engineering Brick
+
+<img src="../assets/hero-banner.png" alt="Open Engineering Brick" width="100%" />
 
 ### Every engineering model begins with a building block.
 
